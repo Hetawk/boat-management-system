@@ -1,0 +1,46 @@
+Boat Rented,Boat #1,03:50:29,03:50:29,
+Boat Rented,Boat #2,03:50:38,03:50:38,
+Boat Rented,Boat #9,03:50:42,03:50:42,
+Lost Boat,Boat #1,03:50:29,03:50:51,
+Lost Boat,Boat #2,03:50:38,03:50:51,
+Lost Boat,Boat #9,03:50:42,03:50:51,
+Boat Returned,Boat #1,03:50:29,03:51:00,0 hours 0 minutes 31 seconds
+Boat Returned,Boat #2,03:50:38,03:51:00,0 hours 0 minutes 22 seconds
+Boat Returned,Boat #9,03:50:42,03:51:00,0 hours 0 minutes 18 seconds
+Boat Rented,Boat #1,03:51:02,03:51:02,
+Boat Rented,Boat #2,03:51:03,03:51:03,
+Boat Rented,Boat #3,03:51:04,03:51:04,
+Boat Rented,Boat #4,03:51:08,03:51:08,
+Boat Returned,Boat #3,03:51:04,03:51:12,0 hours 0 minutes 8 seconds
+Boat Returned,Boat #4,03:51:08,03:51:16,0 hours 0 minutes 8 seconds
+Boat Rented,Boat #3,03:51:34,03:51:34,
+Boat Returned,Boat #1,03:51:02,03:51:41,0 hours 0 minutes 39 seconds
+Boat Returned,Boat #2,03:51:03,03:51:41,0 hours 0 minutes 38 seconds
+Boat Returned,Boat #3,03:51:34,03:51:41,0 hours 0 minutes 7 seconds
+Boat Rented,Boat #1,03:51:45,03:51:45,
+Boat Rented,Boat #2,03:51:48,03:51:48,
+Boat Rented,Boat #3,03:51:49,03:51:49,
+Lost Boat,Boat #1,03:51:45,03:51:51,
+Lost Boat,Boat #2,03:51:48,03:51:51,
+Lost Boat,Boat #3,03:51:49,03:51:51,
+Boat Returned,Boat #1,03:51:45,03:51:54,0 hours 0 minutes 9 seconds
+Boat Returned,Boat #2,03:51:48,03:51:55,0 hours 0 minutes 7 seconds
+Boat Returned,Boat #3,03:51:49,03:51:55,0 hours 0 minutes 6 seconds
+Boat Rented,Boat #6,03:51:59,03:51:59,
+Boat Rented,Boat #7,03:52:00,03:52:00,
+Boat Rented,Boat #8,03:52:19,03:52:19,
+Boat Rented,Boat #9,03:52:21,03:52:21,
+Boat Returned,Boat #6,03:51:59,03:52:47,0 hours 0 minutes 48 seconds
+Boat Returned,Boat #7,03:52:00,03:52:48,0 hours 0 minutes 48 seconds
+Boat Returned,Boat #8,03:52:19,03:52:51,0 hours 0 minutes 32 seconds
+Lost Boat,Boat #9,03:52:21,03:52:51,
+Lost Boat,Boat #9,03:52:21,03:53:51,
+Lost Boat,Boat #9,03:52:21,03:54:51,
+Boat Rented,Boat #1,03:55:46,03:55:46,
+Boat Rented,Boat #2,03:55:47,03:55:47,
+Boat Rented,Boat #3,03:55:47,03:55:47,
+Boat Returned,Boat #1,03:55:46,03:55:48,0 hours 0 minutes 2 seconds
+Boat Returned,Boat #2,03:55:47,03:55:48,0 hours 0 minutes 1 second
+Boat Returned,Boat #3,03:55:47,03:55:49,0 hours 0 minutes 2 seconds
+Lost Boat,Boat #9,03:52:21,03:55:51,
+Lost Boat,Boat #9,03:52:21,03:56:35,
